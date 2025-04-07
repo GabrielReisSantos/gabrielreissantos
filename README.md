@@ -36,13 +36,8 @@ Here are some highlights from my practical experience and learning journey:
 
 ### Blue Team Lab Simulation
 **Description:** Built a mock SOC environment to practice log analysis, threat detection, and incident response  
-**Tools Used:** Splunk, Suricata, Sysmon  
+**Tools Used:** Splunk, Wazuh, Elasticsearch, Thehive 
 **Focus:** SIEM rules, MITRE ATT&CK mapping, and alert triaging
-
-### Web App Pentest (Ethical Hacking)
-**Description:** Performed penetration testing on a vulnerable web app (DVWA & Juice Shop)  
-**Tools Used:** Burp Suite, OWASP ZAP, Nmap, Nikto  
-**Focus:** OWASP Top 10 vulnerabilities, reporting, and remediation suggestions
 
 ### Threat Intelligence Report
 **Description:** Created a threat intel report based on recent ransomware trends  
