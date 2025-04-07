@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Gabriel Reis
 
+## 📫 Let's Connect!
+
+- 💼 https://www.linkedin.com/in/gabrielreis1712/
+- 🌐 https://gabrielsmind.io
+
+
 🎯 Aspiring **Cybersecurity Consultant** focused on **Purple Team** operations  
 🔐 Passionate about securing systems, empowering teams, and improving defenses through offensive and defensive insights  
 💼 Experienced in business, leadership, and tech. With a transition into cybersecurity through hands-on learning and real-world projects  
@@ -58,12 +64,6 @@ Here are some highlights from my practical experience and learning journey:
 
 To join a forward-thinking organization as a **Security Consultant**, where I can support customers in securing their infrastructure using both offensive insights and defensive strategies, ultimately helping them stay ahead of modern cyber threats.
 
----
-
-## 📫 Let's Connect!
-
-- 💼 https://www.linkedin.com/in/gabrielreis1712/
-- 🌐 https://gabrielsmind.io
 
 ---
 
