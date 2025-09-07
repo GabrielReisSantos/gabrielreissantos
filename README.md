@@ -1,65 +1,53 @@
-# 👋 Hi, I'm Gabriel Reis
+# Hi, I'm Gabriel Reis
 
-## 📫 Let's Connect!
+## Let's Connect!
 
-- 💼 https://www.linkedin.com/in/gabrielreis1712/
-- 🌐 https://gabrielsmind.io
+-  [LinkedIn](https://www.linkedin.com/in/gabrielreis1712/)
+-  [gabrielsmind.io](https://gabrielsmind.io)
 
-
-🎯 Aspiring **Cybersecurity Consultant** focused on **Purple Team** operations  
-🔐 Passionate about securing systems, empowering teams, and improving defenses through offensive and defensive insights  
-💼 Experienced in business, leadership, and tech. With a transition into cybersecurity through hands-on learning and real-world projects  
-
+ Aspiring **Cybersecurity Consultant** with focus on **Purple Team** operations  
+ Passionate about securing systems, empowering teams, and improving defenses through offensive and defensive insights  
+ 10+ years of leadership and business experience, now fully dedicated to cybersecurity through hands-on labs, real projects, and professional training  
 ---
-
 ## About Me
-
-I'm a self-taught cybersecurity student with a strong foundation in business management and leadership. After years of working in dynamic environments and managing teams, I’ve pivoted my career toward cybersecurity with a passion for protecting systems, analyzing vulnerabilities, and contributing to strategic defense.
-
-Currently, I’m focused on expanding my knowledge in both **offensive** and **defensive** security tactics to become an effective **Purple Teamer**, someone who can bridge the gap between red and blue teams to create more resilient security strategies.
-
+I’m a cybersecurity professional in transition from a decade of entrepreneurship and leadership into full-time security consulting.  
+With a strong foundation in SOC operations, threat detection, and security automation, I bring a unique mix of technical expertise and business acumen.  
 ---
-
 ## Skills & Tools
-
-- **Cybersecurity:** Vulnerability Assessment, Threat Hunting, SIEM, Network Security, MITRE ATT&CK, Incident Response
-- **Tools:** Wireshark, Burp Suite, Nmap, Metasploit, Nessus, Suricata, Splunk, OSINT Frameworks
-- **Scripting:** Python, Bash
-- **Environments:** Linux, Windows, Cloud (basic AWS knowledge)
-- **Soft Skills:** Leadership, Communication, Strategic Planning, Team Training
-
+- **Blue Team:** SOC Monitoring, Incident Triage, Threat Hunting, SIEM/SOAR (Wazuh, TheHive, Shuffle, Splunk)  
+- **Red Team:** Vulnerability Assessment, Penetration Testing, CVE Exploitation (Hack The Box)  
+- **Automation & Scripting:** Python (automation, enrichment scripts), Bash  
+- **Networking & Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit, Nessus, Suricata, VPN, IDS/IPS, Fortinet, CCNA-level networking  
+- **Cloud & Resilience:** AWS & Azure SOC builds, IAM, Disaster Recovery  
+- **Frameworks:** MITRE ATT&CK, ISO 27001, ISO 22301, NIST 800-61  
+- **Soft Skills:** Leadership, Communication, Strategic Planning, Executive Training, Client Engagement  
 ---
+## Projects
+### Cloud SOC & IR Pipeline (AWS)  
+**Description:** Built a SOC integrating Wazuh, TheHive, and Shuffle with automated enrichment (VirusTotal, AbuseIPDB), real-time alerting, and auto-blocking.  
+**Focus:** Incident response workflows, SIEM automation, ransomware/phishing simulations.  
 
-## 🚧 Projects
+### Executive Ransomware Simulation – WHITEOUT  
+**Description:** Designed a phishing-to-ransomware attack simulation in VMs with ransom notes (EN/PT) and mock data exfiltration. Produced executive recovery documentation and awareness playbooks.  
+**Focus:** Executive training, resilience testing, incident playbooks.  
 
-Here are some highlights from my practical experience and learning journey:
+### LetsDefend SOC Analyst Track  
+**Description:** Completed 12+ live SOC cases investigating phishing, brute-force, SQLi, and CVE exploits.  
+**Focus:** SIEM investigations, forensic reporting, blue team operations.  
 
-### Blue Team Lab Simulation
-**Description:** Built a mock SOC environment to practice log analysis, threat detection, and incident response  
-**Tools Used:** Splunk, Wazuh, Elasticsearch, Thehive 
-**Focus:** SIEM rules, MITRE ATT&CK mapping, and alert triaging
+### OSINT Vulnerability Discovery  
+**Description:** Performed OSINT scans (Shodan, TLS/web endpoints), identified exposed services, and delivered responsible disclosure reports.  
+**Focus:** OSINT, vulnerability reporting, ethical disclosure.  
 
-### Threat Intelligence Report
-**Description:** Created a threat intel report based on recent ransomware trends  
-**Tools Used:** OSINT tools, Twitter feeds, MITRE ATT&CK  
-**Focus:** TTP analysis, adversary behavior, and proactive defense planning
-
+### Hack The Box (Active)  
+**Description:** Practiced penetration testing on enterprise-like systems with CVEs, privilege escalation, and lateral movement.  
+**Focus:** Red team skills, reporting, remediation guidance.  
 ---
-
 ## Currently Learning
-
-- Red & Blue Team collaboration
-- Adversary Emulation & Detection Engineering
-- Cloud Security & Purple Team tactics
-- Advanced Python for Automation in Cybersecurity
-
----
-
-## My Goal
-
-To join a forward-thinking organization as a **Security Consultant**, where I can support customers in securing their infrastructure using both offensive insights and defensive strategies, ultimately helping them stay ahead of modern cyber threats.
-
-
+- Red & Blue Team collaboration  
+- Adversary Emulation & Detection Engineering  
+- Advanced Python for Security Automation  
+- Cloud Security & Purple Team Tactics  
 ---
 
 > _“Security isn’t a product, it’s a process.” — Bruce Schneier_
